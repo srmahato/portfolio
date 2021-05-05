@@ -15,7 +15,7 @@ const mSocialIcons = [
 const mSocialLinks = [
   "https://facebook.com/er.gobinda",
   "https://instagram.com/er.gobinda",
-  "https://twitter.com/mahatosir",
+  "https://twitter.com/ErGobinda",
   "https://linkedin.com/in/gobindamahato",
   "https://github.com/srmahato"
 ];
@@ -35,7 +35,8 @@ final mTools1 = [
   "MySQL",
   "Vue",
   "Node.js",
-  "SQL"
+  "SQL",
+  "Etc..."
 ];
 
 // Services
@@ -105,10 +106,10 @@ final mProjectsDescriptions = [
 ];
 
 final mProjectsLinks = [
-  "https://github.com/",
-  "https://github.com/",
-  "https://github.com/",
-  "https://github.com/",
+  "https://github.com/srmahato/portfolio",
+  "https://github.com/srmahato/portfolio",
+  "https://github.com/srmahato/portfolio",
+  "https://github.com/srmahato/portfolio",
   "https://github.com/srmahato/portfolio",
 ];
 
