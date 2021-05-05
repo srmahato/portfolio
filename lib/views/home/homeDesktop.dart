@@ -94,9 +94,10 @@ class HomeDesktop extends StatelessWidget {
                             " IT Infrastructure Engineer",
                             " Network Engineer",
                             " Web Developer",
-                            " App Developer(Flutter & Android java)",
+                            " App Developer",
                             " Technical Writer",
-                            " UI/UX Designing"
+                            " UI/UX Designing",
+                            " Graphic Design"
                           ]),
                     ],
                   ),
