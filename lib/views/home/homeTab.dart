@@ -74,9 +74,10 @@ class HomeTab extends StatelessWidget {
                           " IT Infrastructure Engineer",
                           " Network Engineer",
                           " Web Developer",
-                          " App Developer(Flutter & Android java)",
+                          " App Developer",
                           " Technical Writer",
-                          " UI/UX Enthusiast"
+                          " UI/UX Designing",
+                          " Graphic Design"
                         ]),
                   ],
                 ),
