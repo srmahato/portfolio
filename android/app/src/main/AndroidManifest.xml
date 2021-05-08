@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.meroResume.portfolio">
+    package="com.meroresume.portfolio">
+
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="portfolio"
         android:icon="@mipmap/ic_launcher">
